@@ -1,0 +1,21 @@
+{
+  "name": "carousel",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "@material-ui/core": "4.11.4",
+    "@material-ui/icons": "4.11.2",
+    "next": "latest",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-material-ui-carousel": "2.2.6"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "description": ""
+}
